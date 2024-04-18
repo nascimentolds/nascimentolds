@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - 💼 Atualmente trabalho como desenvolvedor na Unimed Agreste Meridional.
 - 🖥️ Frontend é minha maior área de interesse!
 
-  ## Minhas Skills
+ <!-- ## Minhas Skills
 
-<!-- **Aplicações e dados**
+ **Aplicações e dados**
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
