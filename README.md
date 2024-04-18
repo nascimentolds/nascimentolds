@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **nascimentolds/nascimentolds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Olá 👋 Eu sou Marcelo Nascimento.
+
+- 📚 Atualmente sou estudante de Graduação em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Ciência e Tecnologia de Pernambuco - Campus Garanhuns.
+- 🎓 Sou formado em Administração com Ênfase em Marketing pela Autarquia de Ensino Superior de Garanhuns.
+- 💼 Atualmente trabalho como desenvolvedor na Unimed Agreste Meridional.
+- 🖥️ Frontend é minha maior área de interesse!
