@@ -23,6 +23,7 @@ with technical skills to build innovative web experiences.
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php) ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F80000) ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=CC6699) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
 
 
+
 <!-- ### Olá 👋 Eu sou Marcelo Nascimento.
 
 - 📚 Atualmente, estudante de Graduação em Análise e Desenvolvimento de Sistemas no IFPE - Campus Garanhuns.
