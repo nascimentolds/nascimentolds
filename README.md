@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hi there! 
-<hr />
 I'm Marcelo Nascimento, a student pursuing a Bachelor's degree in Systems Analysis and Development at IFPE - Campus Garanhuns. I'm also a full-stack developer with a primary focus on frontend development. Passionate about creating engaging and user-friendly interfaces, I strive to combine creativity with technical skills to build innovative web experiences.
 
 <!-- ### Olá 👋 Eu sou Marcelo Nascimento.
