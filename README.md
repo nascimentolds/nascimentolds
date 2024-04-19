@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá 👋 Eu sou Marcelo Nascimento.
+## 👋 Hi there! 
+#### I'm Marcelo Nascimento, a student pursuing a Bachelor's degree in Systems Analysis and Development at IFPE - Campus Garanhuns. I'm also a full-stack developer with a primary focus on frontend development. Passionate about creating engaging and user-friendly interfaces, I strive to combine creativity with technical skills to build innovative web experiences.
+
+<!-- ### Olá 👋 Eu sou Marcelo Nascimento.
 
 - 📚 Atualmente, estudante de Graduação em Análise e Desenvolvimento de Sistemas no IFPE - Campus Garanhuns.
 - 🎓 Sou formado em Administração com Ênfase em Marketing pela Autarquia de Ensino Superior de Garanhuns.
@@ -42,4 +45,4 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://img.shields.io/badge/-nascimentolds?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-nascimentolds@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/nascimentolds?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/nascimentolds?label=follow&style=social)](LINK-DO-SEU-GITHUB)-->
