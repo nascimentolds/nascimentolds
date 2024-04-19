@@ -34,7 +34,7 @@ with technical skills to build innovative web experiences.
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
 
 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentolds&layout=compact&langs_count=7&theme=dracula"/>
 
 
 <!-- ### Olá 👋 Eu sou Marcelo Nascimento.
