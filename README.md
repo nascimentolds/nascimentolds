@@ -20,7 +20,7 @@ I'm Marcelo Nascimento, a full-stack developer with a primary focus on frontend 
 <br />
 
 ### 🛠️ Tech Tools
-___
+-
 Discover my key tech tools! These badges showcase my skills in programming languages, databases, and essential technologies for building robust and efficient web applications and systems.
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
