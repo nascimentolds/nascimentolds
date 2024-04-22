@@ -30,8 +30,6 @@ with technical skills to build innovative web experiences.
 [![Gmail Badge](https://img.shields.io/badge/-nascimentolds%40hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nascimentolds@hotmail.com)](mailto:nascimentolds@hotmail.com)
 [![Instagram](https://img.shields.io/badge/-@nascimentolds-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nascimentolds/)](https://www.instagram.com/nascimentolds/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentolds&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- ### Olá 👋 Eu sou Marcelo Nascimento.
 
 - 📚 Atualmente, estudante de Graduação em Análise e Desenvolvimento de Sistemas no IFPE - Campus Garanhuns.
