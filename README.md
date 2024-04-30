@@ -21,7 +21,7 @@ Passionate about creating engaging and user-friendly interfaces, I strive to com
 with technical skills to build innovative web experiences.
 
 ## 🛠️ Tech Tools
-<img src="https://skillicons.dev/icons?i=html,javascript,css,scss,php,python,java,react,nextjs,tailwindcss,mysql,oracle" />
+<img src="https://skillicons.dev/icons?i=html,javascript,css,scss,php,python,java,react,nextjs,tailwindcss,mysql" />
 
 <!-- <div>
   <h4>Languages</h4>
