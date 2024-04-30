@@ -41,7 +41,7 @@ with technical skills to build innovative web experiences.
 [![Instagram](https://img.shields.io/badge/-@nascimentolds-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nascimentolds/)](https://www.instagram.com/nascimentolds/)
 
 <br />
-![](https://komarev.com/ghpvc/?username=nascimentolds)
+![](https://komarev.com/ghpvc/?username=nascimentolds&label=PROFILE+VIEWS)
 
 <!-- ### Olá 👋 Eu sou Marcelo Nascimento.
 
